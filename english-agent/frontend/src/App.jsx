@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react"
 
-const API = "http://localhost:8000"
+const API = "https://english-agent-production.up.railway.app"
 const SESSION = "user-1"
 
 const LEVELS = ["A1","A2","B1","B2","C1","C2"]
