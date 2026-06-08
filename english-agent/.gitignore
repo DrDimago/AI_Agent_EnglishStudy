@@ -1,0 +1,4 @@
+backend/.env
+backend/english_agent.db
+node_modules/
+__pycache__/
